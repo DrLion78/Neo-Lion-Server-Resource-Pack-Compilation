@@ -1,0 +1,61 @@
+{
+	"pack": {
+		"pack_format": 46,
+		"version": "1.5.0",
+		"description": [
+			{
+				"text": "Resource Pack for ",
+				"color": "#b0b0b0"
+			},
+			{
+				"text": "Pocket Dimension",
+				"color": "#5991ec"
+			},
+			{
+				"text": " Datapack",
+				"color": "#b0b0b0"
+			},
+			"\n",
+			{
+				"text": "Made by ",
+				"color": "#888888"
+			},
+			{
+				"text": "RafalBerezin",
+				"color": "#acff94"
+			},
+			"\n",
+			{
+				"text": "Textures by ",
+				"color": "#888888"
+			},
+			{
+				"text": "Geastre",
+				"color": "#acff94"
+			},
+			"\n\u00A76\u00A7lUpdated \u00A7e\u00A7lby \u00A74\u00A7lD\u00A76\u00A7lr\u00A7e\u00A7l. \u00A7a\u00A7lL\u00A72\u00A7li\u00A79\u00A7lo\u00A71\u00A7ln7\u00A75\u00A7l8.\u00A7r"
+		],
+		"homepage": "https://modrinth.com/datapack/pocket-dimension",
+		"source": "https://github.com/RafalBerezin/Pocket_Dimension",
+		"license": "MIT",
+		"authors": [
+			{
+				"name": "Geastre",
+				"note": "textures",
+				"artstation": "https://geastre.artstation.com/"
+			},
+			{
+				"name": "RafalBerezin",
+				"note": "resourcepack, pack.png, custom font icons",
+				"contact": {
+					"discord": "rafalberezin",
+					"github": "https://github.com/RafalBerezin"
+				}
+			}
+		],
+		"notes": [
+			"portal texture modified by RafalBerezin",
+			"pack.png made using the portal texture by Geastre"
+		]
+	}
+}

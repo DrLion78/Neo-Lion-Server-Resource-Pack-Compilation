@@ -1,0 +1,10 @@
+{
+	"music.ominous_outpost": {
+		"sounds": [
+			{
+				"name": "music/ominous_outpost",
+				"stream": true
+			}
+		]
+	}
+}
